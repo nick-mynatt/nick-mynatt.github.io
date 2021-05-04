@@ -1,1 +1,1 @@
-A collection of simple projects I have been working on over the past years.
+A collection of miscellaneous personal projects I've done
