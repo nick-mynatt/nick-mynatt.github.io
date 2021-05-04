@@ -1,2 +1,3 @@
-# Example game made in Flutter with flame
+# Example game made in Flutter
 
+Primarily used [flame](https://pub.dev/packages/flame)
