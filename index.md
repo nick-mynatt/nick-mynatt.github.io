@@ -6,4 +6,4 @@
 
 ### [Overwatch SR Webscraper](https://github.com/nick-mynatt/nick-mynatt.github.io/tree/master/Overwatch%20SR%20Webscraper)
 
-### [Flutter Test Game](https://github.com/nick-mynatt/nick-mynatt.github.io/tree/master/Basic%20Flutter%20Game)
+### [Basic Flutter Game](https://github.com/nick-mynatt/nick-mynatt.github.io/tree/master/Basic%20Flutter%20Game)
